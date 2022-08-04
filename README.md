@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+Namaku Naufal Firmansyah\
+Saya seorang mahasiswa Strata 1 jurusan Teknik Informatika\
 
 <!--
 **masnfs/masnfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
