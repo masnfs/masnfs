@@ -3,6 +3,14 @@
 Namaku Naufal Firmansyah\
 Saya seorang mahasiswa Strata 1 jurusan Teknik Informatika\
 
+<p align="left">
+<a href="https://github.com/masnfs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masnfs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masnfs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <!--
 **masnfs/masnfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
